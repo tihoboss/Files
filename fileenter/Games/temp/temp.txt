@@ -1,0 +1,12 @@
+Directory src created successfully in D:\Users\molni\IdeaProjects\fileenter\Games.
+Directory res created successfully in D:\Users\molni\IdeaProjects\fileenter\Games.
+Directory savegames created successfully in D:\Users\molni\IdeaProjects\fileenter\Games.
+Directory temp created successfully in D:\Users\molni\IdeaProjects\fileenter\Games.
+Directory main created successfully in D:\Users\molni\IdeaProjects\fileenter\Games\src.
+Directory test created successfully in D:\Users\molni\IdeaProjects\fileenter\Games\src.
+File Main.java was created in D:\Users\molni\IdeaProjects\fileenter\Games\src\main.
+File Utils.java was created in D:\Users\molni\IdeaProjects\fileenter\Games\src\main.
+Directory drawables created successfully in D:\Users\molni\IdeaProjects\fileenter\Games\res.
+Directory vectors created successfully in D:\Users\molni\IdeaProjects\fileenter\Games\res.
+Directory icons created successfully in D:\Users\molni\IdeaProjects\fileenter\Games\res.
+File temp.txt was created in D:\Users\molni\IdeaProjects\fileenter\Games\temp.
