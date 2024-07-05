@@ -1,0 +1,5 @@
+rootProject.name = 'grable-model'
+include 'db'
+include 'api'
+include 'service'
+
